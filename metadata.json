@@ -1,0 +1,7 @@
+{
+  "name": "Brew & Beyond",
+  "description": "A warm, aesthetic café website for Brew & Beyond in Mumbai — showcasing specialty roasts, mood-driven spaces (Study, Main Character, Catch-Up), curated menu, and visit details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
